@@ -10,4 +10,4 @@ This is an example website built while learning how to use Jekyll and GitHub Pag
 
 **Add link to about page**
 
-More details about the project are available from the [About page](about).
+More details about the project are available from the [About page](about.md).
