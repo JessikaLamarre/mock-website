@@ -1,8 +1,8 @@
 # About
 
 ## Project
-{{ site.description }}
-This research project is all about teaching you how to create websites with GitHub pages.
+{{ site.description }} call back from the YAML file to avoid repeating code. If have to change it, have to change it only once
+
 
 ## Funders
 We gratefully acknowledge funding from the XYZ Founding Council, under grant number 'abc'.
