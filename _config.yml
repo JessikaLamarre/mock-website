@@ -1,0 +1,9 @@
+YAML file: YAML is a human-readable data-serialization language. 
+It is commonly used for configuration files and in applications where text data is being stored or transmitted and it is programming language agnostic.
+Global configuration settings (i.e. local variables/paramaters like "description", "email") from _config.yml are made available as site.PARAMETER_NAME variable in every page within the website
+
+description: "This research project develops training materials for reseachers wanting to learn to build project
+websites in GitHub with GitHub Pages."
+email: "team@carpentries.org"
+
+Access the parameter’s value within a page by using Liquid’s notation to output content by surrounding a variable in curly braces as {{ variable }}
