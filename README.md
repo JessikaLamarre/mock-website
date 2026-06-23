@@ -27,4 +27,5 @@ You can find this lesson [here](https://carpentries-incubator.github.io/jekyll-p
 3. Commonly used for websites and software development
 4. We ~~don't~~ use it in The Carpentries
 
+#### Include a logo with link
 ![Carpentries Logo](https://carpentries.org/thecarpentries-opengraph.png)
