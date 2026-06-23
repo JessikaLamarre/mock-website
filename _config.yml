@@ -4,4 +4,4 @@ description: "This research project develops training materials for reseachers w
 websites in GitHub with GitHub Pages."
 email: "team@carpentries.org"
 
-Access the parameter’s value within a page by using Liquid’s notation to output content by surrounding a variable in curly braces as {{ variable }}
+Liquid notation: Access the parameter’s value within a page by using Liquid’s notation to output content by surrounding a variable in curly braces as {{ variable }}
